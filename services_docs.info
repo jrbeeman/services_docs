@@ -1,0 +1,8 @@
+; $Id$
+name = 'Services documentation'
+description = 'Auto-generated, human-friendly documentation of web services available on the site.'
+package = 'Services'
+dependencies[] = services
+version = 6.x-1.x-dev
+core = 6.x
+php = 5.x
